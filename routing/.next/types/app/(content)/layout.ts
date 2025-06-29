@@ -1,4 +1,4 @@
-// File: C:\Users\FAIKALI\OneDrive\famt mca\Documents\GitHub\nextjs-complete-guide-course-resources\attachments\03-routing-rendering\01-starting-project\01-starting-project\app\(content)\layout.js
+// File: D:\nextjs-projects\routing\app\(content)\layout.js
 import * as entry from '../../../../app/(content)/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
