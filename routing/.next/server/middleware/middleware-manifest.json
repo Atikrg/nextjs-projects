@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "sorted_middleware": [],
   "middleware": {
     "/": {
       "files": [
@@ -13,14 +13,11 @@
       "matchers": [
         {
           "locale": false,
-          "originalSource": "/news",
-          "regexp": "^/news$"
+          "originalSource": "/news"
         }
       ]
     }
   },
-  "sortedMiddleware": [
-    "/"
-  ],
+  "instrumentation": null,
   "functions": {}
 }
