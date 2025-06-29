@@ -1,0 +1,3 @@
+{
+  "/(content)/archive/@archive/[[...filter]]/page": "app/(content)/archive/@archive/[[...filter]]/page.js"
+}
